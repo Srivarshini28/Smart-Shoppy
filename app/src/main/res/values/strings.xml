@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Shoppy</string>
+    <string name="select">Select Payment Mode</string>
+    <string name="About_1st"><i>Self-checkouts (SCOs), also known as assisted checkouts (ACOs) or self-service checkouts, are machines that provide a mechanism for customers to complete their own transaction from a retailer without needing a traditional staffed checkout. </i></string>
+    <string name="about_2nd"><i>Most self-checkout areas are supervised by at least one staff member, often assisting customers process transactions, correcting prices, or otherwise providing service</i></string>
+    <string name="abt_3rd"><i>One benefit to the retailer in providing self-checkout machines is in reduced labour costs: one attendant can often run four to six checkout lanes with the work of the cashier now being assumed by the customer. The size of a self-checkout machine is also smaller than a traditional checkout manned by a cashier; thus, a store can save space, which could be used for more shelves, display cabinets, or additional checkouts.Self-checkout can also sometimes be faster than using a cashier lane. This can reduce the length of checkout lines and wait times.</i></string>
+</resources>

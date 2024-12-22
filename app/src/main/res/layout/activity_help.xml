@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgPurple"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".HelpActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="If you have any issue contact us:"
+        android:textSize="22sp"
+        android:textStyle="italic"
+        android:layout_marginStart="2dp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact Number: +91 9940051286"
+        android:autoLink="phone"
+        android:layout_marginTop="10dp"
+        android:textStyle="italic"
+        android:textColor="@color/black"
+        android:textColorLink="@color/purple_700"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email: rameshsrivarshini@gmail.com"
+        android:textColor="@color/black"
+        android:autoLink="email"
+        android:textStyle="italic"
+        android:textColorLink="@color/purple_700"
+        android:textSize="20sp"/>
+
+</LinearLayout>
